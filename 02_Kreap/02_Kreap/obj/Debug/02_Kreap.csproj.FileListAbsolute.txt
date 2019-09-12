@@ -1,0 +1,11 @@
+C:\Users\PRO206\source\repos\02_Kreap\02_Kreap\bin\Debug\02_Kreap.exe.config
+C:\Users\PRO206\source\repos\02_Kreap\02_Kreap\bin\Debug\02_Kreap.exe
+C:\Users\PRO206\source\repos\02_Kreap\02_Kreap\bin\Debug\02_Kreap.pdb
+C:\Users\PRO206\source\repos\02_Kreap\02_Kreap\obj\Debug\02_Kreap.csprojAssemblyReference.cache
+C:\Users\PRO206\source\repos\02_Kreap\02_Kreap\obj\Debug\_02_Kreap.Form1.resources
+C:\Users\PRO206\source\repos\02_Kreap\02_Kreap\obj\Debug\_02_Kreap.Properties.Resources.resources
+C:\Users\PRO206\source\repos\02_Kreap\02_Kreap\obj\Debug\02_Kreap.csproj.GenerateResource.cache
+C:\Users\PRO206\source\repos\02_Kreap\02_Kreap\obj\Debug\02_Kreap.csproj.CoreCompileInputs.cache
+C:\Users\PRO206\source\repos\02_Kreap\02_Kreap\obj\Debug\02_Kreap.exe
+C:\Users\PRO206\source\repos\02_Kreap\02_Kreap\obj\Debug\02_Kreap.pdb
+C:\Users\PRO206\source\repos\02_Kreap\02_Kreap\obj\Debug\_02_Kreap.Form2.resources
